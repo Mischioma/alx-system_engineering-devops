@@ -1,2 +1,2 @@
-##!/bin/bash
-echo{a..z}{a..} |tr '''\n' |grep _v "00"
+#!/bin/bash
+echo{a..z}{a..} |tr '''\n' |grep _v oo
